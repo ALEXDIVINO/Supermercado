@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Supermecado",
+    "\\Supermecado\\DataBase",
+    "\\Supermecado\\Models",
+    "\\Supermecado\\Models\\Pessoas",
+    "\\Supermecado\\Telas",
+    "\\Supermecado\\Telas\\Formularios",
+    "\\Supermecado\\Telas\\Login",
+    "\\Supermecado\\Telas\\TelaPrincipal"
+  ],
+  "SelectedNode": "\\Supermecado\\Telas\\Formularios\\FormFuncionario.cs",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,87 @@
+C:\Users\joaoj\source\repos\Supermecado\Supermecado\bin\Debug\Supermecado.exe.config
+C:\Users\joaoj\source\repos\Supermecado\Supermecado\bin\Debug\Supermecado.exe
+C:\Users\joaoj\source\repos\Supermecado\Supermecado\bin\Debug\Supermecado.pdb
+C:\Users\joaoj\source\repos\Supermecado\Supermecado\obj\Debug\Supermecado.csproj.AssemblyReference.cache
+C:\Users\joaoj\source\repos\Supermecado\Supermecado\obj\Debug\Supermecado.Form1.resources
+C:\Users\joaoj\source\repos\Supermecado\Supermecado\obj\Debug\Supermecado.Properties.Resources.resources
+C:\Users\joaoj\source\repos\Supermecado\Supermecado\obj\Debug\Supermecado.csproj.GenerateResource.cache
+C:\Users\joaoj\source\repos\Supermecado\Supermecado\obj\Debug\Supermecado.csproj.CoreCompileInputs.cache
+C:\Users\joaoj\source\repos\Supermecado\Supermecado\obj\Debug\Supermecado.exe
+C:\Users\joaoj\source\repos\Supermecado\Supermecado\obj\Debug\Supermecado.pdb
+D:\ALEX DIVINO\Supermecado\Supermecado\bin\Debug\Supermecado.exe.config
+D:\ALEX DIVINO\Supermecado\Supermecado\bin\Debug\Supermecado.exe
+D:\ALEX DIVINO\Supermecado\Supermecado\bin\Debug\Supermecado.pdb
+D:\ALEX DIVINO\Supermecado\Supermecado\obj\Debug\Supermecado.csproj.AssemblyReference.cache
+D:\ALEX DIVINO\Supermecado\Supermecado\obj\Debug\Supermecado.Properties.Resources.resources
+D:\ALEX DIVINO\Supermecado\Supermecado\obj\Debug\Supermecado.csproj.GenerateResource.cache
+D:\ALEX DIVINO\Supermecado\Supermecado\obj\Debug\Supermecado.csproj.CoreCompileInputs.cache
+D:\ALEX DIVINO\Supermecado\Supermecado\obj\Debug\Supermecado.exe
+D:\ALEX DIVINO\Supermecado\Supermecado\obj\Debug\Supermecado.pdb
+D:\ALEX DIVINO\Supermecado\Supermecado\obj\Debug\Supermecado.Telas.FormLogin.resources
+D:\ALEX DIVINO\Supermecado\Supermecado\obj\Debug\Supermecado.Telas.FormTelaPrincipal.resources
+D:\ALEX DIVINO\Supermecado\Supermecado\obj\Debug\Supermecado.Telas.FormLoad.resources
+D:\ALEX DIVINO\Supermecado\Supermecado\bin\Debug\MySqlConnector.dll
+D:\ALEX DIVINO\Supermecado\Supermecado\bin\Debug\System.Buffers.dll
+D:\ALEX DIVINO\Supermecado\Supermecado\bin\Debug\System.Memory.dll
+D:\ALEX DIVINO\Supermecado\Supermecado\bin\Debug\System.Numerics.Vectors.dll
+D:\ALEX DIVINO\Supermecado\Supermecado\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\ALEX DIVINO\Supermecado\Supermecado\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\ALEX DIVINO\Supermecado\Supermecado\bin\Debug\MySqlConnector.xml
+D:\ALEX DIVINO\Supermecado\Supermecado\bin\Debug\System.Buffers.xml
+D:\ALEX DIVINO\Supermecado\Supermecado\bin\Debug\System.Memory.xml
+D:\ALEX DIVINO\Supermecado\Supermecado\bin\Debug\System.Numerics.Vectors.xml
+D:\ALEX DIVINO\Supermecado\Supermecado\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\ALEX DIVINO\Supermecado\Supermecado\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\ALEX DIVINO\Supermecado\Supermecado\obj\Debug\Supermecado.csproj.CopyComplete
+\\Alex\alex divino\Supermecado\Supermecado\obj\Debug\Supermecado.csproj.AssemblyReference.cache
+\\Alex\alex divino\Supermecado\Supermecado\obj\Debug\Supermecado.Telas.FormLoad.resources
+\\Alex\alex divino\Supermecado\Supermecado\obj\Debug\Supermecado.Telas.FormLogin.resources
+\\Alex\alex divino\Supermecado\Supermecado\obj\Debug\Supermecado.Properties.Resources.resources
+\\Alex\alex divino\Supermecado\Supermecado\obj\Debug\Supermecado.Telas.FormTelaPrincipal.resources
+\\Alex\alex divino\Supermecado\Supermecado\obj\Debug\Supermecado.csproj.GenerateResource.cache
+\\Alex\alex divino\Supermecado\Supermecado\obj\Debug\Supermecado.csproj.CoreCompileInputs.cache
+\\Alex\alex divino\Supermecado\Supermecado\obj\Debug\Supermecado.exe
+\\Alex\alex divino\Supermecado\Supermecado\obj\Debug\Supermecado.pdb
+\\Alex\alex divino\Supermecado\Supermecado\bin\Debug\Supermecado.exe.config
+\\Alex\alex divino\Supermecado\Supermecado\bin\Debug\Supermecado.exe
+\\Alex\alex divino\Supermecado\Supermecado\bin\Debug\Supermecado.pdb
+\\Alex\alex divino\Supermecado\Supermecado\bin\Debug\MySqlConnector.dll
+\\Alex\alex divino\Supermecado\Supermecado\bin\Debug\System.Buffers.dll
+\\Alex\alex divino\Supermecado\Supermecado\bin\Debug\System.Memory.dll
+\\Alex\alex divino\Supermecado\Supermecado\bin\Debug\System.Numerics.Vectors.dll
+\\Alex\alex divino\Supermecado\Supermecado\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+\\Alex\alex divino\Supermecado\Supermecado\bin\Debug\System.Threading.Tasks.Extensions.dll
+\\Alex\alex divino\Supermecado\Supermecado\bin\Debug\MySqlConnector.xml
+\\Alex\alex divino\Supermecado\Supermecado\bin\Debug\System.Buffers.xml
+\\Alex\alex divino\Supermecado\Supermecado\bin\Debug\System.Memory.xml
+\\Alex\alex divino\Supermecado\Supermecado\bin\Debug\System.Numerics.Vectors.xml
+\\Alex\alex divino\Supermecado\Supermecado\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+\\Alex\alex divino\Supermecado\Supermecado\bin\Debug\System.Threading.Tasks.Extensions.xml
+\\Alex\alex divino\Supermecado\Supermecado\obj\Debug\Supermecado.csproj.CopyComplete
+D:\ALEX DIVINO\Supermecado\Supermecado\obj\Debug\Supermecado.Telas.FormFuncionario.resources
+\\ALEX\Alex\Supermecado\Supermecado\bin\Debug\Supermecado.exe.config
+\\ALEX\Alex\Supermecado\Supermecado\bin\Debug\Supermecado.exe
+\\ALEX\Alex\Supermecado\Supermecado\bin\Debug\Supermecado.pdb
+\\ALEX\Alex\Supermecado\Supermecado\bin\Debug\MySqlConnector.dll
+\\ALEX\Alex\Supermecado\Supermecado\bin\Debug\System.Buffers.dll
+\\ALEX\Alex\Supermecado\Supermecado\bin\Debug\System.Memory.dll
+\\ALEX\Alex\Supermecado\Supermecado\bin\Debug\System.Numerics.Vectors.dll
+\\ALEX\Alex\Supermecado\Supermecado\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+\\ALEX\Alex\Supermecado\Supermecado\bin\Debug\System.Threading.Tasks.Extensions.dll
+\\ALEX\Alex\Supermecado\Supermecado\bin\Debug\MySqlConnector.xml
+\\ALEX\Alex\Supermecado\Supermecado\bin\Debug\System.Buffers.xml
+\\ALEX\Alex\Supermecado\Supermecado\bin\Debug\System.Memory.xml
+\\ALEX\Alex\Supermecado\Supermecado\bin\Debug\System.Numerics.Vectors.xml
+\\ALEX\Alex\Supermecado\Supermecado\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+\\ALEX\Alex\Supermecado\Supermecado\bin\Debug\System.Threading.Tasks.Extensions.xml
+\\ALEX\Alex\Supermecado\Supermecado\obj\Debug\Supermecado.csproj.AssemblyReference.cache
+\\ALEX\Alex\Supermecado\Supermecado\obj\Debug\Supermecado.Telas.FormFuncionario.resources
+\\ALEX\Alex\Supermecado\Supermecado\obj\Debug\Supermecado.Telas.FormLoad.resources
+\\ALEX\Alex\Supermecado\Supermecado\obj\Debug\Supermecado.Telas.FormLogin.resources
+\\ALEX\Alex\Supermecado\Supermecado\obj\Debug\Supermecado.Properties.Resources.resources
+\\ALEX\Alex\Supermecado\Supermecado\obj\Debug\Supermecado.Telas.FormTelaPrincipal.resources
+\\ALEX\Alex\Supermecado\Supermecado\obj\Debug\Supermecado.csproj.GenerateResource.cache
+\\ALEX\Alex\Supermecado\Supermecado\obj\Debug\Supermecado.csproj.CoreCompileInputs.cache
+\\ALEX\Alex\Supermecado\Supermecado\obj\Debug\Supermecado.csproj.CopyComplete
+\\ALEX\Alex\Supermecado\Supermecado\obj\Debug\Supermecado.exe
+\\ALEX\Alex\Supermecado\Supermecado\obj\Debug\Supermecado.pdb
