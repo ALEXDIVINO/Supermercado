@@ -85,3 +85,29 @@ D:\ALEX DIVINO\Supermecado\Supermecado\obj\Debug\Supermecado.Telas.FormFuncionar
 \\ALEX\Alex\Supermecado\Supermecado\obj\Debug\Supermecado.csproj.CopyComplete
 \\ALEX\Alex\Supermecado\Supermecado\obj\Debug\Supermecado.exe
 \\ALEX\Alex\Supermecado\Supermecado\obj\Debug\Supermecado.pdb
+D:\ALEX DIVINO\Supermercado\Supermecado\bin\Debug\Supermecado.exe.config
+D:\ALEX DIVINO\Supermercado\Supermecado\bin\Debug\Supermecado.exe
+D:\ALEX DIVINO\Supermercado\Supermecado\bin\Debug\Supermecado.pdb
+D:\ALEX DIVINO\Supermercado\Supermecado\bin\Debug\MySqlConnector.dll
+D:\ALEX DIVINO\Supermercado\Supermecado\bin\Debug\System.Buffers.dll
+D:\ALEX DIVINO\Supermercado\Supermecado\bin\Debug\System.Memory.dll
+D:\ALEX DIVINO\Supermercado\Supermecado\bin\Debug\System.Numerics.Vectors.dll
+D:\ALEX DIVINO\Supermercado\Supermecado\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\ALEX DIVINO\Supermercado\Supermecado\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\ALEX DIVINO\Supermercado\Supermecado\bin\Debug\MySqlConnector.xml
+D:\ALEX DIVINO\Supermercado\Supermecado\bin\Debug\System.Buffers.xml
+D:\ALEX DIVINO\Supermercado\Supermecado\bin\Debug\System.Memory.xml
+D:\ALEX DIVINO\Supermercado\Supermecado\bin\Debug\System.Numerics.Vectors.xml
+D:\ALEX DIVINO\Supermercado\Supermecado\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\ALEX DIVINO\Supermercado\Supermecado\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\ALEX DIVINO\Supermercado\Supermecado\obj\Debug\Supermecado.csproj.AssemblyReference.cache
+D:\ALEX DIVINO\Supermercado\Supermecado\obj\Debug\Supermecado.Telas.FormFuncionario.resources
+D:\ALEX DIVINO\Supermercado\Supermecado\obj\Debug\Supermecado.Telas.FormLoad.resources
+D:\ALEX DIVINO\Supermercado\Supermecado\obj\Debug\Supermecado.Telas.FormLogin.resources
+D:\ALEX DIVINO\Supermercado\Supermecado\obj\Debug\Supermecado.Properties.Resources.resources
+D:\ALEX DIVINO\Supermercado\Supermecado\obj\Debug\Supermecado.Telas.FormTelaPrincipal.resources
+D:\ALEX DIVINO\Supermercado\Supermecado\obj\Debug\Supermecado.csproj.GenerateResource.cache
+D:\ALEX DIVINO\Supermercado\Supermecado\obj\Debug\Supermecado.csproj.CoreCompileInputs.cache
+D:\ALEX DIVINO\Supermercado\Supermecado\obj\Debug\Supermecado.csproj.CopyComplete
+D:\ALEX DIVINO\Supermercado\Supermecado\obj\Debug\Supermecado.exe
+D:\ALEX DIVINO\Supermercado\Supermecado\obj\Debug\Supermecado.pdb
